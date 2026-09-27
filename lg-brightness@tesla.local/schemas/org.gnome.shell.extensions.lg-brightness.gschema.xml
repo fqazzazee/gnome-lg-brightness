@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.lg-brightness" path="/org/gnome/shell/extensions/lg-brightness/">
+    <key name="bright-level" type="i">
+      <range min="0" max="100"/>
+      <default>100</default>
+      <summary>Brightness used when the toggle is on</summary>
+    </key>
+    <key name="dim-level" type="i">
+      <range min="0" max="100"/>
+      <default>30</default>
+      <summary>Brightness used when the toggle is off</summary>
+    </key>
+    <key name="model" type="s">
+      <default>'LG ULTRAGEAR'</default>
+      <summary>Monitor model passed to ddcutil --model</summary>
+    </key>
+  </schema>
+</schemalist>

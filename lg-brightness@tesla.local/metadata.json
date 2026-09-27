@@ -1,0 +1,10 @@
+{
+  "uuid": "lg-brightness@tesla.local",
+  "name": "LG Brightness",
+  "description": "Quick Settings toggle for the LG UltraGear's hardware backlight over DDC/CI: click to switch between a bright and a dim level, or open the menu for a slider.",
+  "url": "https://github.com/fqazzazee/gnome-lg-brightness",
+  "settings-schema": "org.gnome.shell.extensions.lg-brightness",
+  "shell-version": [
+    "50"
+  ]
+}
