@@ -120,6 +120,10 @@ VCP code `0x10` is the standard MCCS *Luminance* control, which sets the backlig
 gnome-extensions uninstall lg-brightness@tesla.local
 ```
 
+## Support
+
+If it saved you a reach for the monitor's joystick, you can [buy me a coffee ☕](https://buymeacoffee.com/fqazzazee).
+
 ## License
 
 [GPL-2.0-or-later](LICENSE)
